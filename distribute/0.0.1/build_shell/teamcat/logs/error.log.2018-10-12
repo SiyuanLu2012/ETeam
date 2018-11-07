@@ -1,0 +1,97 @@
+Fri, 12 Oct 2018 15:09:29 simplelogger.py[line:28] ERROR 'AnonymousUser' object has no attribute 'extend_info'
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/business/ucenter/account_service.py", line 35, in get_avatar_url
+    if user.extend_info:
+AttributeError: 'AnonymousUser' object has no attribute 'extend_info'
+Fri, 12 Oct 2018 15:09:31 simplelogger.py[line:28] ERROR 'AnonymousUser' object has no attribute 'extend_info'
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/business/ucenter/account_service.py", line 35, in get_avatar_url
+    if user.extend_info:
+AttributeError: 'AnonymousUser' object has no attribute 'extend_info'
+Fri, 12 Oct 2018 15:09:31 simplelogger.py[line:28] ERROR 'AnonymousUser' object has no attribute 'extend_info'
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/business/ucenter/account_service.py", line 35, in get_avatar_url
+    if user.extend_info:
+AttributeError: 'AnonymousUser' object has no attribute 'extend_info'
+Fri, 12 Oct 2018 15:09:32 simplelogger.py[line:28] ERROR 'AnonymousUser' object has no attribute 'extend_info'
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/business/ucenter/account_service.py", line 35, in get_avatar_url
+    if user.extend_info:
+AttributeError: 'AnonymousUser' object has no attribute 'extend_info'
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
+Fri, 12 Oct 2018 15:10:31 simplelogger.py[line:28] ERROR Project matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/ethan/Documents/OneDrive/coding.net/Teamcat/teamcat_web/doraemon/model_managers/project_model_manager.py", line 198, in get
+    result=super(ProjectManager,self).get_queryset().get(id=projectid)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/db/models/query.py", line 403, in get
+    self.model._meta.object_name
+doraemon.project.models.DoesNotExist: Project matching query does not exist.
